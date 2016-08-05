@@ -43,7 +43,7 @@ Lastly there were some clients with MongoDB. I didn't get to work directly on th
 * M101P: MongoDB for Developers (Python)
 * M101JS: MongoDB for Developers (JavaScript)
 * M102: MongoDB for DBAs
-I also reviewed some real-world Mongo troubleshooting issues with the performance tuning team in Amsterdam.
+I also reviewed some real-world Mongo troubleshooting issues with the performance tuning team in Amsterdam. 
 
 
 ## Senior DBA (Oracle)
