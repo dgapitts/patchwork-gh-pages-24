@@ -1,28 +1,18 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://media.licdn.com/media/AAEAAQAAAAAAAAk-AAAAJDE1NTkxNmM5LTZjODctNDU2Yi1hOTY2LTNkMmVhM2VjZjk5NA.jpg"
+name: "Dave Pitts"
+title: "Senior DBA (mostly Oracle and some Postgres)"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### Senior DBA by trade and open-source hacker in my spare time :) 
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+### Overview
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
-
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+* Very strong Oracle DBA and communication skills
+* 10 years of Oracle experience including Oracle on Linux, Solaris and Virtualised Operating Systems 
+* Good Unix scripting skills (mostly bash, python and some perl)
+* Java (J2EE) and PL/SQL development background (2001-2003)
+* Professional Certifications: OCP DBA 11g, 10g and 9i; OCA PL/SQL 9i; MCDBA 2000 (SQL Server)
+* 17 years of IT industry experience, working for Blackboard, Capgemini, Fujitsu and EDS. 
+* BA Mathematics degree from Oxford University (Wadham College) 
+* MSc Software Engineering from Liverpool University
